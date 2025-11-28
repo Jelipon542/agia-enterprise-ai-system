@@ -230,6 +230,11 @@ AGIA enabled:
 - a scalable foundation for forecasting, analytics and retrieval  
 - improved decision-making for procurement, pricing and operations  
 
+## 🌍 System Impact
+
+AGIA is currently powering real-time insights for thousands of active market operators, providing decision-support analytics, historical price intelligence, and AI-driven conversational access to commodity data.  
+The system is deployed in production and used daily by traders, cooperatives, and enterprises across Spain.
+
 ## 📘 Notes
 
 Additional notebooks, extended evaluation and modelling rationale can be shared on request.
